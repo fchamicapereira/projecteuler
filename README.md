@@ -1,2 +1,2 @@
 # projecteuler
-My solutions to some problem of https://projecteuler.net/ using Python
+My solutions to some problems of https://projecteuler.net/ using Python
